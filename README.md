@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A software engineer from Stockholm</h3>
+<h3 align="center">A software engineer✨ </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
